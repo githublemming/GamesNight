@@ -13,7 +13,7 @@ This repo serves as a place to use GitHub functionality such as Issues and Discu
 ### Raising an Issue
 If you think you have identified a bug with one of the applications, please create a bug using the Bug Template. If you have a new feature suggestion, then please use the Feature template.
 
-When creating an issue please add a label to your issue for the appropiate application.
+When creating an issue please add a label to your issue for the appropriate application.
 
 Please don't use Issues for asking questions, use Discussions instead.
 
