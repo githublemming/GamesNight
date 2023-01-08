@@ -27,6 +27,6 @@ If you need help such as how does something work, or what is the best ways of do
 This site does not contain any user guides or manuals for the applications, you can find these on my main website.
 
 * [Ends](https://haskins.io/ends/)
-* [Ends+](http://endsplus.com)
+* [Ends+](http://endsplus.com/userguide/index.html)
 * [Games Night](http://haskins.io/gamesnight-manual/)
 * [One Letter](http://haskins.io/one-letter/)
