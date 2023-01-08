@@ -7,6 +7,7 @@ You won't find any code here. This is a management account.
 This repo serves as a place to use GitHub functionality such as Issues and Discussions to provide support for:
 
 * Ends
+* Ends+
 * Games Night
 * One Letter
 
@@ -25,6 +26,7 @@ If you need help such as how does something work, or what is the best ways of do
 ## Application user guides
 This site does not contain any user guides or manuals for the applications, you can find these on my main website.
 
-* [Ends](http://haskins.io/ends/)
+* [Ends](https://haskins.io/ends/)
+* [Ends+](http://endsplus.com)
 * [Games Night](http://haskins.io/gamesnight-manual/)
 * [One Letter](http://haskins.io/one-letter/)
